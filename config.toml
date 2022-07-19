@@ -1,3 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://nhudson.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'nhudson.dev'
+theme = 'hacker'
+googleAnalytics = "G-1MPDXNW6QC"
+paginate = 7
+canonifyurls = true
+enableEmoji = true
+relativeurls = true
