@@ -7,3 +7,6 @@ paginate = 7
 canonifyurls = true
 enableEmoji = true
 relativeurls = true
+
+[params]
+colorScheme = "monochrome-dark"
